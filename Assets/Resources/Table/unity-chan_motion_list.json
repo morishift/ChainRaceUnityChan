@@ -1,0 +1,19 @@
+[
+  { "name": "HANDUP00_R", "duration": 0.8,  "loop": true,  "desc": "右手をあげて走る" },
+  { "name": "JUMP00",     "duration": 1.83, "loop": false, "desc": "垂直大ジャンプ" },
+  { "name": "JUMP01",     "duration": 2.03, "loop": false, "desc": "垂直小ジャンプ" },
+  { "name": "SLIDE00",    "duration": 1.37, "loop": false, "desc": "地面をスライディング" },
+  { "name": "UMATOBI00",  "duration": 1.27, "loop": false, "desc": "跳び箱を飛び越す" },
+  { "name": "WAIT00",     "duration": 2.9,  "loop": true,  "desc": "アイドル状態" },
+  { "name": "WAIT01",     "duration": 6.6,  "loop": false, "desc": "ゆっくり伸びをする" },
+  { "name": "WAIT02",     "duration": 8.3,  "loop": true,  "desc": "リラックスしてうでをぶらぶら" },
+  { "name": "WAIT03",     "duration": 5.17, "loop": false, "desc": "両手を前にだして笑顔で手をふる" },
+  { "name": "WAIT04",     "duration": 5.17, "loop": false, "desc": "回転してキック" },
+  { "name": "WIN00",      "duration": 3.97, "loop": false, "desc": "勝利の決めポーズ" },
+  { "name": "LOSE00",     "duration": 3.57, "loop": false, "desc": "頭を抱えて苦しむ負けポーズ" },
+  { "name": "DAMAGED00",  "duration": 1.13, "loop": false, "desc": "ダメージを受けたモーション" },
+  { "name": "DAMAGED01",  "duration": 3.57, "loop": false, "desc": "後ろにひっくり返って起き上がる" },
+  { "name": "REFRESH00",  "duration": 3.87, "loop": false, "desc": "膝に手をついて息切れ" },
+  { "name": "JUMP00B",    "duration": 1.83, "loop": false, "desc": "垂直中ジャンプ" },
+  { "name": "JUMP01B",    "duration": 2.03, "loop": false, "desc": "勢いよく上に手を伸ばす" }
+]
