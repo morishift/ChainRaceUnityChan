@@ -1,12 +1,11 @@
-// SPDX-License-Identifier: MIT
-// Copyright (c) 2026 Kenichi Morishita
 
 using Cysharp.Threading.Tasks;
 using System;
 using System.Threading;
 using UnityEngine;
+using ChainPattern;
 
-namespace ChainPattern
+namespace Sample
 {
     /// <summary>
     /// Chain that triggers an Animator CrossFade and completes when the target state is entered.
