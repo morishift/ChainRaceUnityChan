@@ -4,6 +4,8 @@
 
 **[English version](README.md)**
 
+- **デモ**: [ChainRaceUnityChan](https://morishift.github.io/ChainRacePatternUnity-Demo/ChainRaceUnityChan/)  
+
 ![UnityChan-1-Main.gif](https://github.com/user-attachments/assets/7be233d9-7401-4d72-b60a-61fe27844e6d)  
 
 ## ChainRacePattern について

@@ -4,6 +4,8 @@ A Unity demo project that showcases [ChainRacePattern (CRP)](https://github.com/
 
 **[日本語版はこちら (Japanese)](README_ja.md)**
 
+- **Demo**: [ChainRaceUnityChan](https://morishift.github.io/ChainRacePatternUnity-Demo/ChainRaceUnityChan/)  
+
 ![UnityChan-1-Main.gif](https://github.com/user-attachments/assets/7be233d9-7401-4d72-b60a-61fe27844e6d)  
 
 ## About ChainRacePattern
