@@ -562,7 +562,7 @@ namespace Sample
                     "univ1105"  // わたしでいいの…？
                 ),
                 new ChainAction(() => cameraDirection.targetFacePriority = false),
-                ChainIris(duration: 1.5f, radius: 1.3f)
+                ChainIris(duration: 1.5f, radius: 2.0f)
             );
         }
 
