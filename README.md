@@ -4,7 +4,7 @@ A Unity demo project that showcases [ChainRacePattern (CRP)](https://github.com/
 
 **[日本語版はこちら (Japanese)](README_ja.md)**
 
-<img width="600" height="360" alt="UnityChan-1-Main.gif" src="https://github.com/user-attachments/assets/7be233d9-7401-4d72-b60a-61fe27844e6d" />  
+![UnityChan-1-Main.gif](https://github.com/user-attachments/assets/7be233d9-7401-4d72-b60a-61fe27844e6d)  
 
 ## About ChainRacePattern
 
@@ -28,7 +28,7 @@ Use it as a reference for how CRP can orchestrate character animation, voice, an
 
 ## ChainDebugWindow
 
-![Scene1-ChainDebug.gif](https://github.com/user-attachments/assets/99b7b38e-6067-40ae-8f56-50deea97ad68)  
+![UnityChan-3-DebugWindow.gif](https://github.com/user-attachments/assets/9ef797cf-babd-4147-b1dd-69eb1b1ebcc0)  
 
 `ChainDebugWindow` is an editor window that visualizes the **state of the entire Chain tree** in real time while the game is playing.
 
